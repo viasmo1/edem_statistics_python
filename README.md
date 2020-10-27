@@ -1,1 +1,1 @@
-# python_project
+# EDEM Statistics Programming with Python
