@@ -15,8 +15,8 @@ The datasets to analyse have been downloaded from [kaggle](https://www.kaggle.co
 
 This analysis will be perfomed by:
 
-- [Amparo](https://github.com/Amparus)
+- [Amparo Botella](https://github.com/Amparus)
 - [María Carbonell](https://github.com/mariacarbonell)
-- [Fernando](https://github.com/femado1)
+- [Fernando Marín](https://github.com/femado1)
 - [Gonzalo Alberola](https://github.com/GonzaloAP97)
 - [Vicent Asensio](https://github.com/viasmo1)
